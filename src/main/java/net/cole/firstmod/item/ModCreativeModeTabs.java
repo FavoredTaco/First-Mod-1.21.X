@@ -20,6 +20,8 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.URANIUM_BLOCK.get());
                         output.accept(ModBlocks.RAW_URANIUM_BLOCK.get());
+                        output.accept(ModBlocks.URANIUM_ORE.get());
+                        output.accept(ModBlocks.DEEPSLATE_URANIUM_ORE.get());
 
                         output.accept(ModItems.URANIUM.get());
                         output.accept(ModItems.RAW_URANIUM.get());

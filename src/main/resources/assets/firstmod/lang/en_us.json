@@ -4,6 +4,8 @@
 
   "block.firstmod.uranium_block": "Block of Uranium",
   "block.firstmod.raw_uranium_block": "Block of Raw Uranium",
+  "block.firstmod.uranium_ore": "Uranium Ore",
+  "block.firstmod.deepslate_uranium_ore": "Deepslate Uranium Ore",
 
-  "creativetab.first_tab": "First Mod Tab"
+  "creativetab.first_tab": "First Mod"
 }

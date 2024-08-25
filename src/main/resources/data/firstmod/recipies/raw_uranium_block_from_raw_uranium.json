@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "catagory": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "firstmod:raw_uranium"
+    }
+  },
+  "result": {
+    "item": "firstmod:raw_uranium_block"
+  }
+}
