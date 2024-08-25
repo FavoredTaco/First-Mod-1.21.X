@@ -1,0 +1,9 @@
+{
+  "item.firstmod.uranium": "Uranium",
+  "item.firstmod.raw_uranium": "Raw Uranium",
+
+  "block.firstmod.uranium_block": "Block of Uranium",
+  "block.firstmod.raw_uranium_block": "Block of Raw Uranium",
+
+  "creativetab.first_tab": "First Mod Tab"
+}
